@@ -1,0 +1,22 @@
+{
+  "name": "zamunda_crowlerV2",
+  "version": "0.0.0",
+  "description": "zamunda_crowlerV2",
+  "main": "app.js",
+  "author": {
+    "name": "Anton",
+    "email": ""
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "iconv-lite": "^0.4.19",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.3.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "rss": "^1.2.2",
+    "tough-cookie": "^2.3.3",
+    "underscore": "^1.8.3"
+  }
+}
