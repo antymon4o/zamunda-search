@@ -53,7 +53,7 @@ cookies.forEach(function (cookieVal) {
 
 var staticOptions = {
     url: 'http://zamunda.net/bananas', //browse.php',
-    proxy: "http://localhost:8888",
+    // proxy: "http://localhost:8888",
     headers: {
         "Accept": "text/html, application/xhtml+xml, */*",
         "Accept-Language": "en-US,en;q=0.7,bg;q=0.3",
