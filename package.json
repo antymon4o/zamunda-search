@@ -11,7 +11,7 @@
     "bluebird": "^3.5.1",
     "express": "^4.16.2",
     "iconv-lite": "^0.4.19",
-    "jquery": ">=3.4.1",
+    "jquery": ">=3.5.0",
     "jsdom": "^11.3.0",
     "request": ">=2.88.0",
     "request-promise": ">=4.2.4",
