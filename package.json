@@ -12,7 +12,7 @@
     "express": "^4.16.2",
     "iconv-lite": "^0.4.19",
     "jquery": ">=3.5.0",
-    "jsdom": "^11.3.0",
+    "jsdom": "^16.5.0",
     "request": ">=2.88.0",
     "request-promise": ">=4.2.4",
     "rss": "^1.2.2",
