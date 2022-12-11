@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bluebird": "^3.5.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "iconv-lite": "^0.4.19",
     "jquery": ">=3.5.0",
     "jsdom": "^11.3.0",
